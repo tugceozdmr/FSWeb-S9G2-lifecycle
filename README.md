@@ -1,11 +1,10 @@
-# Bileşen Yaşam Döngüsü - Full-Stack React Todo
+# Gerçek veriler gösteren bileşenlerle çalışmak - Full-Stack React Todo
 
 Bu projede bileşen yaşam döngüleri ile uğraşacaksınız. Daha önce yaptığınız ToDo list uygulamasına benzer bir uygulama oluşturacaksınız fakat bu sefer "yapılacaklar listesi" elemanları oluşturmak, düzenlemek ve silmek için bir API ile etkileşimde olacak.
 
 ## Pratik yapacağınız yetenekler
 
 - Sıfırdan React bileşenleri oluşturmak
-- İlk renderdan sonra `ComponentDidMount` kullanarak sunucuya bir request göndermek
 - Bir submit event handler kullanarak bir (`POST`) requestiyle başka sunucuya istek yapmak
 - Sunucuda var olan bir kaynağı (`PATCH`) ile editlemek için bir click handler kullanma
 - Sunucudaki state'i güncel tutmak için frontendi update etme
