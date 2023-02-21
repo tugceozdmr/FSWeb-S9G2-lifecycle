@@ -26,14 +26,24 @@ body, input, button {
   align-items: center;
 }
 
-h1, h2, h3 {
+ h2, h3 {
   color: #93005a;
 
 }
 
 h1 {
-  font-size: 1.75rem;
-  line-height: 5rem;
+
+  font-weight: 100;
+  background-color:#2c5d63; 
+  color: #fdffcd; 
+  font-size: x-large;
+  margin-top:30px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  max-height: 150px;
+  content: 5px;
 }
 
 h2 {
@@ -83,3 +93,10 @@ ul, form {
 .todo:hover {
   cursor: pointer;
 }
+
+.but, .but2 {
+  background-color: #ff6f3c;
+  border-color:  #ff6f3c;;
+  color: #fdffcd; 
+}
+
